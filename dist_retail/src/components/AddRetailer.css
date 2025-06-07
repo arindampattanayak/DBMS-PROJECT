@@ -1,0 +1,42 @@
+.retailer-form-container {
+  max-width: 500px;
+  margin: 2rem auto;
+  background: #f8f9fa;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
+}
+
+.retailer-form h2 {
+  margin-bottom: 1rem;
+}
+
+.retailer-form label {
+  display: block;
+  margin-top: 1rem;
+  font-weight: bold;
+}
+
+.retailer-form input {
+  width: 100%;
+  padding: 0.5rem;
+  margin-top: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.retailer-form button {
+  margin-top: 1.5rem;
+  background-color: #28a745;
+  color: white;
+  padding: 0.7rem 1.2rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.retailer-form button:hover {
+  background-color: #218838;
+}
